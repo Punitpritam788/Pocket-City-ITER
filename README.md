@@ -30,7 +30,7 @@
 
 What if you could explore your college campus as an interactive digital city?
 
-**Pocket City** is an independent campus visualization project inspired by the Institute of Technical Education & Research (ITER), Siksha 'O' Anusandhan University, Bhubaneswar, Odisha.
+**Pocket City** is an independent campus visualization project created by an **ITER alumnus from the Class of 2025**, inspired by the Institute of Technical Education & Research (ITER), Siksha 'O' Anusandhan University, Bhubaneswar, Odisha.
 
 It transforms a familiar university environment into an interactive 3D-style digital experience featuring academic buildings, hostels, gates, roads, greenery, animated traffic, seasonal environments and campus landmarks.
 
@@ -38,9 +38,11 @@ The project uses a custom-built Canvas rendering engine implemented with HTML, C
 
 But Pocket City is about more than visualizing a university.
 
-One of its main goals is to encourage fellow ITER students to participate in real development work, learn Git and GitHub, collaborate with other developers, fix bugs and contribute meaningful improvements to a shared project.
+As a graduate, I wanted to create something meaningful for the campus community I was once part of. My goal is to encourage current ITER students and fellow alumni to explore the codebase, contribute improvements, learn Git and GitHub workflows, collaborate with other developers and build practical development experience.
 
-**Your campus. Your code. Your contribution.**
+Students can use meaningful project contributions as opportunities to develop their skills, strengthen their portfolios and build a genuine record of collaborative work.
+
+**Built by an ITER alumnus. Improved by the ITER community.**
 
 ---
 
@@ -50,9 +52,9 @@ One of its main goals is to encourage fellow ITER students to participate in rea
 |---|---|
 | 💻 GitHub Repository | [Punitpritam788/Pocket-City-ITER](https://github.com/Punitpritam788/Pocket-City-ITER) |
 | 🌐 Live Demo | [Open Pocket City](https://punitpritam788.github.io/Pocket-City-ITER/) |
-| 🎬 Project Walkthrough | See the Pocket City project explainer video |
+| 🎬 Project Walkthrough | Pocket City project explainer video |
 
-> GitHub Pages must be enabled and the application deployed before the live demo becomes accessible. The expected entry file is `index.html` in the repository root.
+> **GitHub Pages deployment:** The expected project URL is shown above. The application must be uploaded as `index.html` and GitHub Pages must be enabled before the demo becomes accessible.
 
 ---
 
@@ -61,6 +63,7 @@ One of its main goals is to encourage fellow ITER students to participate in rea
 | Project Detail | Description |
 |---|---|
 | Project Name | Pocket City |
+| Creator | ITER alumnus, Class of 2025 |
 | University | SOA University |
 | Campus | ITER, Bhubaneswar, Odisha |
 | Rendering System | Custom Canvas 2D-based 3D-style renderer |
@@ -405,9 +408,11 @@ https://punitpritam788.github.io/Pocket-City-ITER/
 
 # 🧩 Developer Guide - How to Contribute
 
-## The Bigger Goal: Build It Together
+## Built by an Alumnus. Open to the ITER Community.
 
-Pocket City is also an opportunity for fellow ITER students to get involved in real collaborative development.
+Pocket City was created by an ITER Class of 2025 alumnus with the intention of giving something back to the campus community.
+
+One of my main goals is to create an opportunity for current students and fellow alumni to participate in a real development project.
 
 You do not need to build an entire application from scratch to make a meaningful contribution.
 
@@ -421,7 +426,7 @@ You can start by:
 - Optimizing a JavaScript function.
 - Adding a new geometry builder.
 
-The goal is to learn through actual development work and create genuine contributions that can be demonstrated in your developer portfolio.
+The goal is to learn through actual development work, collaborate with others and create genuine contributions that can be demonstrated in a developer portfolio.
 
 ## Contribution Idea 1: Add or Modify a Building
 
@@ -520,7 +525,7 @@ Contributions can follow a standard fork-and-pull-request workflow.
 
 ### Step 1: Fork the Repository
 
-Open the repository:
+Open:
 
 https://github.com/Punitpritam788/Pocket-City-ITER
 
@@ -585,24 +590,28 @@ Add screenshots when your changes affect the visual appearance.
 
 # 🎓 Why Student Contributions Matter
 
-One of my biggest goals with Pocket City is to encourage students at ITER to participate in a real development project.
+After graduating from ITER in 2025, I wanted to create something that could remain connected to the campus community and provide an opportunity for the next generation of developers.
 
-GitHub should not be limited to uploading completed academic assignments.
+I know that building a developer portfolio can be challenging, especially when you are trying to gain practical experience as a student or fresher.
 
-It can also be used to:
+That is one reason I want Pocket City to encourage meaningful collaboration.
+
+Students can use the project to:
 
 - Learn how to work with an existing codebase.
 - Practise Git and GitHub workflows.
-- Experience branching and pull requests.
+- Experience branching, commits and pull requests.
+- Participate in code reviews.
+- Improve debugging and problem-solving skills.
 - Collaborate with other developers.
-- Improve problem-solving skills.
-- Understand code reviews.
-- Build practical development experience.
-- Create genuine portfolio contributions.
+- Build a genuine public record of technical contributions.
+- Strengthen their developer portfolios.
 
-**The goal is not random commits to make a contribution graph look active.**
+**This is not about generating random commits to make a contribution graph look active.**
 
 The goal is genuine development work, meaningful collaboration and improvements that make the project better.
+
+A carefully implemented feature, a verified correction, a useful bug fix or clear documentation can all be valuable contributions.
 
 Whether you are a beginner or an experienced developer, you can find something to contribute.
 
@@ -643,22 +652,22 @@ The model uses mapping references, satellite imagery, campus photographs and env
 
 # ⚠️ Important Notes
 
-- Pocket City is an independent student-built visualization project, not an official SOA University or ITER application.
+- Pocket City is an independent project created by an ITER alumnus. It is not an official SOA University or ITER application.
 - The project is a 3D-style visual campus representation, not an official navigation system or survey-grade GIS dataset.
 - Google Maps previews and photographs depend on external services and API access.
 - Keep API keys private and use appropriately restricted credentials.
-- Preserve the relevant third-party data attribution and comply with the source imagery and licensing terms.
+- Preserve the relevant third-party data attribution and comply with source imagery and licensing terms.
 - A software license has not yet been specified. Check the repository for a LICENSE file before reusing or redistributing the code.
 
 ---
 
 # 🌱 Join the Pocket City Community
 
-Do you study at ITER?
+Are you currently studying at ITER?
 
-Are you interested in programming, frontend development, JavaScript, visualization, mapping or simply learning GitHub?
+Are you an ITER graduate who enjoys programming, frontend development, JavaScript, visualization, mapping or collaborative development?
 
-You are welcome to explore the project and suggest improvements.
+I would love to see you explore Pocket City and help make it better.
 
 Find something missing? Report it.
 
@@ -666,9 +675,9 @@ Notice an inaccurate building? Suggest a correction.
 
 Have an idea? Build it.
 
-A small, well-tested contribution can improve the project and help someone else learn.
+Whether you are making your first GitHub contribution or already have development experience, the project is an opportunity to learn, collaborate and create something meaningful.
 
-Let's turn this into a collaborative development experience for our campus.
+I built Pocket City as an alumnus, but its future improvements can come from the entire ITER community.
 
 ## 🔗 Project Links
 
@@ -678,13 +687,13 @@ Let's turn this into a collaborative development experience for our campus.
 ---
 
 <p align="center">
-  <strong>YOUR CAMPUS. YOUR CODE. YOUR CONTRIBUTION.</strong>
+  <strong>BUILT BY AN ITER ALUMNUS. IMPROVED BY THE ITER COMMUNITY.</strong>
 </p>
 
 <p align="center">
-  Built with curiosity, JavaScript and a vision to bring our campus closer through code.
+  <strong>YOUR ALMA MATER. YOUR CODE. THE NEXT GENERATION.</strong>
 </p>
 
 ### Hashtags
 
-#PocketCity #ITER #SOAUniversity #Bhubaneswar #Odisha #CampusVisualization #3DVisualization #JavaScript #HTML5 #CSS3 #CanvasAPI #WebDevelopment #FrontendDevelopment #GitHub #Git #GitHubContributions #StudentDevelopers #CollaborativeDevelopment #StudentCommunity #OpenStreetMap #BuildInPublic #DeveloperPortfolio #LearningByBuilding #SoftwareDevelopment #TechCommunity
+#PocketCity #ITER #SOAUniversity #Bhubaneswar #Odisha #ITERAlumni #AlumniCommunity #CampusVisualization #3DVisualization #JavaScript #HTML5 #CSS3 #CanvasAPI #WebDevelopment #FrontendDevelopment #GitHub #Git #GitHubContributions #StudentDevelopers #StudentCommunity #CodeCollaboration #OpenStreetMap #BuildInPublic #DeveloperPortfolio #LearningByBuilding #SoftwareDevelopment #TechCommunity
